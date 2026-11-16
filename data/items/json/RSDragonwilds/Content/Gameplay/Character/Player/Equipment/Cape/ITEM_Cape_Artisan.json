@@ -71,8 +71,13 @@
           "Description": {
             "TableId": "/Game/Gameplay/Items/ST_ItemBuffs.ST_ItemBuffs",
             "Key": "ArtisanSkillcape",
+<<<<<<< HEAD
             "SourceString": null,
             "LocalizedString": ""
+=======
+            "SourceString": "10% chance to not use resources when crafting an item.",
+            "LocalizedString": "10% chance to not use resources when crafting an item."
+>>>>>>> upstream/main
           },
           "BuffIcon": {
             "AssetPathName": "",

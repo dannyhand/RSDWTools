@@ -14,11 +14,19 @@
         },
         {
           "ObjectName": "ContainerContentDataAsset'CC_Compost_Super'",
+<<<<<<< HEAD
           "ObjectPath": "/Game/Gameplay/LiquidsAndOtherContent/CC_Compost_Super"
         },
         {
           "ObjectName": "ContainerContentDataAsset'CC_Compost_Ultra'",
           "ObjectPath": "/Game/Gameplay/LiquidsAndOtherContent/CC_Compost_Ultra"
+=======
+          "ObjectPath": "RSDragonwilds/Content/Gameplay/LiquidsAndOtherContent/CC_Compost_Super.0"
+        },
+        {
+          "ObjectName": "ContainerContentDataAsset'CC_Compost_Ultra'",
+          "ObjectPath": "RSDragonwilds/Content/Gameplay/LiquidsAndOtherContent/CC_Compost_Ultra.0"
+>>>>>>> upstream/main
         }
       ],
       "ContainerEmptyContentsDescription": {

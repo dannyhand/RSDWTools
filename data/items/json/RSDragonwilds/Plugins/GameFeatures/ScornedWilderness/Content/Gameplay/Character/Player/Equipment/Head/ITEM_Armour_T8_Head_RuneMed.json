@@ -32,8 +32,13 @@
       "Name": {
         "TableId": "/Game/Gameplay/Items/ST_ItemNames.ST_ItemNames",
         "Key": "RuniteMedHelm",
+<<<<<<< HEAD
         "SourceString": null,
         "LocalizedString": ""
+=======
+        "SourceString": "Rune Med Helm",
+        "LocalizedString": "Rune Med Helm"
+>>>>>>> upstream/main
       },
       "FlavourText": {
         "TableId": "/Game/Gameplay/Items/ST_ItemDescriptions.ST_ItemDescriptions",

@@ -40,7 +40,7 @@
         "ItemFilter.Material.ProcessedMaterial"
       ],
       "AudioSwitchTag": {
-        "TagName": "Audio.Potion"
+        "TagName": "Audio.Stone.Dust"
       },
       "CompostAmount": 10,
       "PersistenceID": "i30UB0HkMiCruH-4DPwjDg",

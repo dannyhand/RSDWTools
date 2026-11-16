@@ -32,11 +32,19 @@
       },
       "WindUpSequence": {
         "ObjectName": "AnimSequence'A_PlayerM_Attack_Bow_Draw'",
+<<<<<<< HEAD
         "ObjectPath": "/Game/Art/Animation/PlayerM/Bow/A_PlayerM_Attack_Bow_Draw"
       },
       "FullWindUpSequence": {
         "ObjectName": "AnimSequence'A_PlayerM_Attack_Bow_Hold'",
         "ObjectPath": "/Game/Art/Animation/PlayerM/Bow/A_PlayerM_Attack_Bow_Hold"
+=======
+        "ObjectPath": "RSDragonwilds/Content/Art/Animation/PlayerM/Bow/A_PlayerM_Attack_Bow_Draw.0"
+      },
+      "FullWindUpSequence": {
+        "ObjectName": "AnimSequence'A_PlayerM_Attack_Bow_Hold'",
+        "ObjectPath": "RSDragonwilds/Content/Art/Animation/PlayerM/Bow/A_PlayerM_Attack_Bow_Hold.0"
+>>>>>>> upstream/main
       },
       "WindUpMaxMovementSpeedOverride": 150.0,
       "BaseHeldEquipmentPowerLevelRowHandle": {

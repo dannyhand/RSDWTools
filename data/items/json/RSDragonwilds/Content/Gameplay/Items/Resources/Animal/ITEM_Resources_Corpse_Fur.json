@@ -18,8 +18,13 @@
       "FlavourText": {
         "TableId": "/Game/Gameplay/Items/ST_ItemDescriptions.ST_ItemDescriptions",
         "Key": "CorpseCotton",
+<<<<<<< HEAD
         "SourceString": null,
         "LocalizedString": ""
+=======
+        "SourceString": "Drops from a volatile bulbous plant that explodes when hit. Can be spun at the spinning wheel to create fine thread.",
+        "LocalizedString": "Drops from a volatile bulbous plant that explodes when hit. Can be spun at the spinning wheel to create fine thread."
+>>>>>>> upstream/main
       },
       "Icon": {
         "AssetPathName": "/Game/Art/UI/Icons/Resources_ConceptArt/T_Icon_Corpse_Cotton.T_Icon_Corpse_Cotton",

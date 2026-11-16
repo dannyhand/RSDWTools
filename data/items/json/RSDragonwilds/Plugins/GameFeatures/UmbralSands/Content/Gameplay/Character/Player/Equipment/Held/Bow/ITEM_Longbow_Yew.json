@@ -17,6 +17,10 @@
         "ObjectName": "BlueprintGeneratedClass'PA_Spell_Longbow_JumpAttack_C'",
         "ObjectPath": "/Game/Gameplay/Character/Player/Attacks/Bow/PA_Spell_Longbow_JumpAttack"
       },
+      "PrimaryJumpActionClass": {
+        "ObjectName": "BlueprintGeneratedClass'PA_Spell_Longbow_JumpAttack_C'",
+        "ObjectPath": "RSDragonwilds/Content/Gameplay/Character/Player/Attacks/Bow/PA_Spell_Longbow_JumpAttack.0"
+      },
       "SecondaryActionClass": {
         "ObjectName": "BlueprintGeneratedClass'PA_Aim_Bow_C'",
         "ObjectPath": "/Game/Gameplay/Character/Player/Attacks/Bow/PA_Aim_Bow"
@@ -24,6 +28,10 @@
       "SpecialActionClass": {
         "ObjectName": "BlueprintGeneratedClass'PA_RangedAttack_Powershot_C'",
         "ObjectPath": "/Game/Gameplay/Character/Player/Attacks/Longbow/PA_RangedAttack_Powershot"
+      },
+      "SpecialActionClass": {
+        "ObjectName": "BlueprintGeneratedClass'PA_RangedAttack_Powershot_C'",
+        "ObjectPath": "RSDragonwilds/Content/Gameplay/Character/Player/Attacks/Longbow/PA_RangedAttack_Powershot.0"
       },
       "AnimationPoseType": "EAnimationPoseType::Ranged",
       "AnimationPosesSequence": {
@@ -40,11 +48,19 @@
       },
       "WindUpSequence": {
         "ObjectName": "AnimSequence'A_PlayerM_Attack_Bow_Draw'",
+<<<<<<< HEAD
         "ObjectPath": "/Game/Art/Animation/PlayerM/Bow/A_PlayerM_Attack_Bow_Draw"
       },
       "FullWindUpSequence": {
         "ObjectName": "AnimSequence'A_PlayerM_Attack_Bow_Hold'",
         "ObjectPath": "/Game/Art/Animation/PlayerM/Bow/A_PlayerM_Attack_Bow_Hold"
+=======
+        "ObjectPath": "RSDragonwilds/Content/Art/Animation/PlayerM/Bow/A_PlayerM_Attack_Bow_Draw.0"
+      },
+      "FullWindUpSequence": {
+        "ObjectName": "AnimSequence'A_PlayerM_Attack_Bow_Hold'",
+        "ObjectPath": "RSDragonwilds/Content/Art/Animation/PlayerM/Bow/A_PlayerM_Attack_Bow_Hold.0"
+>>>>>>> upstream/main
       },
       "WindUpMaxMovementSpeedOverride": 150.0,
       "BaseHeldEquipmentPowerLevelRowHandle": {
@@ -65,11 +81,19 @@
       "AmmoType": "EHeldEquipmentAmmoType::Arrows",
       "ProjectileClass": {
         "ObjectName": "BlueprintGeneratedClass'BP_Arrow_Base_C'",
+<<<<<<< HEAD
         "ObjectPath": "/Game/Gameplay/Character/Player/Equipment/Ammo/BP_Arrow_Base"
       },
       "RangedAttackCollection": {
         "ObjectName": "BlueprintGeneratedClass'BP_PlayerRangedAttackCollection_Longbow_C'",
         "ObjectPath": "/Game/Gameplay/Character/Player/Attacks/Longbow/BP_PlayerRangedAttackCollection_Longbow"
+=======
+        "ObjectPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Ammo/BP_Arrow_Base.0"
+      },
+      "RangedAttackCollection": {
+        "ObjectName": "BlueprintGeneratedClass'BP_PlayerRangedAttackCollection_Longbow_C'",
+        "ObjectPath": "RSDragonwilds/Content/Gameplay/Character/Player/Attacks/Longbow/BP_PlayerRangedAttackCollection_Longbow.0"
+>>>>>>> upstream/main
       },
       "PreferredLockOnCameraAimMode": "ELockOnCameraAimMode::RangedWeapon",
       "Slot": "ELoadoutSlotStrategy::HeldTwoHanded",

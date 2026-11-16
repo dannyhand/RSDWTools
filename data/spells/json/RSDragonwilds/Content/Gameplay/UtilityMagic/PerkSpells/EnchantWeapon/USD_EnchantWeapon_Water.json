@@ -131,14 +131,24 @@
       "SpellDisplayName": {
         "TableId": "/Game/Gameplay/Character/Player/PerksV2/ST_Skills_Perks.ST_Skills_Perks",
         "Key": "Attack.EnchantWeaponWater.Name",
+<<<<<<< HEAD
         "SourceString": null,
         "LocalizedString": ""
+=======
+        "SourceString": "Enchant Weapon: Water",
+        "LocalizedString": "Enchant Weapon: Water"
+>>>>>>> upstream/main
       },
       "SpecialRequirementsText": {
         "TableId": "/Game/Gameplay/Character/Player/PerksV2/ST_Skills_Perks.ST_Skills_Perks",
         "Key": "HeldItemRequired",
+<<<<<<< HEAD
         "SourceString": null,
         "LocalizedString": ""
+=======
+        "SourceString": "A held melee weapon ",
+        "LocalizedString": "A held melee weapon "
+>>>>>>> upstream/main
       },
       "NotifyFailedSpecialRequirements": [
         "UI.ConsumeItem.RequiresHeldEnchantable"

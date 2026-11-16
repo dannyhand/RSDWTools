@@ -10,6 +10,7 @@
       "AllowedFillTypes": [
         {
           "ObjectName": "ContainerContentDataAsset'CC_Compost_Regular'",
+<<<<<<< HEAD
           "ObjectPath": "/Game/Gameplay/LiquidsAndOtherContent/CC_Compost_Regular"
         },
         {
@@ -19,25 +20,51 @@
         {
           "ObjectName": "ContainerContentDataAsset'CC_Compost_Ultra'",
           "ObjectPath": "/Game/Gameplay/LiquidsAndOtherContent/CC_Compost_Ultra"
+=======
+          "ObjectPath": "RSDragonwilds/Content/Gameplay/LiquidsAndOtherContent/CC_Compost_Regular.0"
+        },
+        {
+          "ObjectName": "ContainerContentDataAsset'CC_Compost_Super'",
+          "ObjectPath": "RSDragonwilds/Content/Gameplay/LiquidsAndOtherContent/CC_Compost_Super.0"
+        },
+        {
+          "ObjectName": "ContainerContentDataAsset'CC_Compost_Ultra'",
+          "ObjectPath": "RSDragonwilds/Content/Gameplay/LiquidsAndOtherContent/CC_Compost_Ultra.0"
+>>>>>>> upstream/main
         }
       ],
       "ContainerEmptyContentsDescription": {
         "TableId": "/Game/Gameplay/Items/ST_Farming.ST_Farming",
         "Key": "HeldContainerDescription_CompostBucket_Empty",
+<<<<<<< HEAD
         "SourceString": null,
         "LocalizedString": ""
+=======
+        "SourceString": "Contents: Nothing. {HeldContainer.Quantity}/{HeldContainer.Capacity} ",
+        "LocalizedString": "Contents: Nothing. {HeldContainer.Quantity}/{HeldContainer.Capacity} "
+>>>>>>> upstream/main
       },
       "ContainerSomeContentsDescription": {
         "TableId": "/Game/Gameplay/Items/ST_Farming.ST_Farming",
         "Key": "HeldContainerDescription_CompostBucket_SomeContents",
+<<<<<<< HEAD
         "SourceString": null,
         "LocalizedString": ""
+=======
+        "SourceString": "Contents:  {HeldContainer.ContentName}. {HeldContainer.Quantity}/{HeldContainer.Capacity}",
+        "LocalizedString": "Contents:  {HeldContainer.ContentName}. {HeldContainer.Quantity}/{HeldContainer.Capacity}"
+>>>>>>> upstream/main
       },
       "ContainerFullContentsDescription": {
         "TableId": "/Game/Gameplay/Items/ST_Farming.ST_Farming",
         "Key": "HeldContainerDescription_CompostBucket_Full",
+<<<<<<< HEAD
         "SourceString": null,
         "LocalizedString": ""
+=======
+        "SourceString": "Contents:  {HeldContainer.ContentName}. {HeldContainer.Quantity}/{HeldContainer.Capacity}",
+        "LocalizedString": "Contents:  {HeldContainer.ContentName}. {HeldContainer.Quantity}/{HeldContainer.Capacity}"
+>>>>>>> upstream/main
       },
       "HeldEquipmentActorClass": {
         "AssetPathName": "/Game/Gameplay/Character/Player/Equipment/Held/Bucket/BP_Bucket_Big.BP_Bucket_Big_C",
@@ -45,7 +72,11 @@
       },
       "PrimaryActionClass": {
         "ObjectName": "BlueprintGeneratedClass'PA_Container_UseOneCharge_C'",
+<<<<<<< HEAD
         "ObjectPath": "/Game/Gameplay/Character/Player/Spells/Farming/Container/PA_Container_UseOneCharge"
+=======
+        "ObjectPath": "RSDragonwilds/Content/Gameplay/Character/Player/Spells/Farming/Container/PA_Container_UseOneCharge.0"
+>>>>>>> upstream/main
       },
       "SecondaryActionClass": {
         "ObjectName": "Class'PlayerAction'",
@@ -54,12 +85,20 @@
       "AnimationPoseType": "EAnimationPoseType::Default",
       "AnimationPosesSequence": {
         "ObjectName": "AnimSequence'A_PlayerM_Idle_Bucket_Poses_Big'",
+<<<<<<< HEAD
         "ObjectPath": "/Game/Art/Animation/PlayerM/Farming/A_PlayerM_Idle_Bucket_Poses_Big"
+=======
+        "ObjectPath": "RSDragonwilds/Content/Art/Animation/PlayerM/Farming/A_PlayerM_Idle_Bucket_Poses_Big.0"
+>>>>>>> upstream/main
       },
       "BaseHeldEquipmentPowerLevelRowHandle": {
         "DataTable": {
           "ObjectName": "DataTable'DT_PlayerWeaponPowerLevels'",
+<<<<<<< HEAD
           "ObjectPath": "/Game/Gameplay/Character/Player/Equipment/DT_PlayerWeaponPowerLevels"
+=======
+          "ObjectPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/DT_PlayerWeaponPowerLevels.0"
+>>>>>>> upstream/main
         },
         "RowName": "Weapons"
       },
@@ -67,24 +106,42 @@
       "HandPreference": "EHandPreference::Right",
       "AssociatedSkill": {
         "ObjectName": "SkillData'SKILL_Farming'",
+<<<<<<< HEAD
         "ObjectPath": "/Game/Gameplay/Character/Player/Skills/SKILL_Farming"
+=======
+        "ObjectPath": "RSDragonwilds/Content/Gameplay/Character/Player/Skills/SKILL_Farming.1"
+>>>>>>> upstream/main
       },
       "bShouldRestOnGround": true,
       "Name": {
         "TableId": "/Game/Gameplay/Items/ST_Farming.ST_Farming",
         "Key": "Name_tool_Bucket_wood_Big",
+<<<<<<< HEAD
         "SourceString": null,
         "LocalizedString": ""
+=======
+        "SourceString": "Large Compost Bucket",
+        "LocalizedString": "Large Compost Bucket"
+>>>>>>> upstream/main
       },
       "FlavourText": {
         "TableId": "/Game/Gameplay/Items/ST_Farming.ST_Farming",
         "Key": "FlavourText_Bucket_Wood_Big",
+<<<<<<< HEAD
         "SourceString": null,
         "LocalizedString": ""
       },
       "CustomInventoryWidgetClass": {
         "ObjectName": "WidgetBlueprintGeneratedClass'WBP_ContainerCustomInventorySlot_C'",
         "ObjectPath": "/Game/UI/Inventory/CustomSlots/WBP_ContainerCustomInventorySlot"
+=======
+        "SourceString": "{HeldContainerDescription}\r\n\r\nAn upgraded wooden bucket with room for extra Compost. Fewer trips, more fertilizing — just try not to strain your back! Pour its contents over a Farming Plot to Fertilize your plants.",
+        "LocalizedString": "{HeldContainerDescription}\r\n\r\nAn upgraded wooden bucket with room for extra Compost. Fewer trips, more fertilizing — just try not to strain your back! Pour its contents over a Farming Plot to Fertilize your plants."
+      },
+      "CustomInventoryWidgetClass": {
+        "ObjectName": "WidgetBlueprintGeneratedClass'WBP_ContainerCustomInventorySlot_C'",
+        "ObjectPath": "RSDragonwilds/Content/UI/Inventory/CustomSlots/WBP_ContainerCustomInventorySlot.8"
+>>>>>>> upstream/main
       },
       "Icon": {
         "AssetPathName": "/Game/Art/UI/Icons/Farming_Additional_Icons/T_Icon_Large_Compost_Bucket_New.T_Icon_Large_Compost_Bucket_New",
@@ -110,7 +167,11 @@
       },
       "OnBreakSound": {
         "ObjectName": "DominionMetaSoundSource'MSS_UI_Nt_Pl_WeaponBreak'",
+<<<<<<< HEAD
         "ObjectPath": "/Game/Audio/MetasoundSources/UI/Notifies/GameplayNotifies/MSS_UI_Nt_Pl_WeaponBreak"
+=======
+        "ObjectPath": "RSDragonwilds/Content/Audio/MetasoundSources/UI/Notifies/GameplayNotifies/MSS_UI_Nt_Pl_WeaponBreak.0"
+>>>>>>> upstream/main
       },
       "PersistenceID": "RbrpREuxQ5-x4LCvrfMRAg",
       "InternalName": "tool_Bucket_Compost_Big"

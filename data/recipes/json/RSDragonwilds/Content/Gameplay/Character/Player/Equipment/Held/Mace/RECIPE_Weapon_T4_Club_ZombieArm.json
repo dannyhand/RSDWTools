@@ -29,6 +29,7 @@
         },
         {
           "ItemData": {
+<<<<<<< HEAD
             "ObjectName": "ItemData'ITEM_Resources_VaultShard'",
             "ObjectPath": "/Game/Gameplay/Items/Resources/Magic/ITEM_Resources_VaultShard"
           },
@@ -36,10 +37,12 @@
         },
         {
           "ItemData": {
+=======
+>>>>>>> upstream/main
             "ObjectName": "ItemData'ITEM_Resources_SilverOre'",
             "ObjectPath": "/Game/Gameplay/Items/Resources/Metal/ITEM_Resources_SilverOre"
           },
-          "Count": 2
+          "Count": 6
         },
         {
           "ItemData": {

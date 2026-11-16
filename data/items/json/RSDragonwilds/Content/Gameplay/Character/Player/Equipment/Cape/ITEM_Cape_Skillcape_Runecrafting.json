@@ -29,7 +29,7 @@
       ],
       "SkillPerkRequiredToEquip": {
         "ObjectName": "SkillPerkData'PerkV2_Runecrafting_Skillcape'",
-        "ObjectPath": "/Game/Gameplay/Character/Player/PerksV2/Runecrafting/PerkV2_Runecrafting_Skillcape"
+        "ObjectPath": "RSDragonwilds/Content/Gameplay/Character/Player/PerksV2/Runecrafting/PerkV2_Runecrafting_Skillcape.0"
       },
       "SkillUsed": {
         "ObjectName": "SkillData'SKILL_Artisan'",
@@ -81,8 +81,13 @@
           "Description": {
             "TableId": "/Game/Gameplay/Items/ST_ItemBuffs.ST_ItemBuffs",
             "Key": "RunecraftingSkillcape",
+<<<<<<< HEAD
             "SourceString": null,
             "LocalizedString": ""
+=======
+            "SourceString": "You siphon double the number of runes from Anima Vents.",
+            "LocalizedString": "You siphon double the number of runes from Anima Vents."
+>>>>>>> upstream/main
           },
           "BuffIcon": {
             "AssetPathName": "",

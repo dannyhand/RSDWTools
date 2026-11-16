@@ -72,14 +72,24 @@
           "Title": {
             "TableId": "/Game/Gameplay/Items/ST_ItemInfo.ST_ItemInfo",
             "Key": "SpecialEffect",
+<<<<<<< HEAD
             "SourceString": null,
             "LocalizedString": ""
+=======
+            "SourceString": "Special Effect",
+            "LocalizedString": "Special Effect"
+>>>>>>> upstream/main
           },
           "Description": {
             "TableId": "/Game/Gameplay/Items/ST_ItemBuffs.ST_ItemBuffs",
             "Key": "LeggingsOfLightness.Boon",
+<<<<<<< HEAD
             "SourceString": null,
             "LocalizedString": ""
+=======
+            "SourceString": "Increased MAX CARRY WEIGHT\r\nCast WINDSTEP without consuming RUNES",
+            "LocalizedString": "Increased MAX CARRY WEIGHT\r\nCast WINDSTEP without consuming RUNES"
+>>>>>>> upstream/main
           },
           "BuffIcon": {
             "AssetPathName": "",

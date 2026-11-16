@@ -15,7 +15,11 @@
       },
       "SpecialActionClass": {
         "ObjectName": "BlueprintGeneratedClass'PA_RangedAttack_Crossbow_PunishingShot_C'",
+<<<<<<< HEAD
         "ObjectPath": "/Game/Gameplay/Character/Player/Attacks/Crossbow/PA_RangedAttack_Crossbow_PunishingShot"
+=======
+        "ObjectPath": "RSDragonwilds/Content/Gameplay/Character/Player/Attacks/Crossbow/PA_RangedAttack_Crossbow_PunishingShot.0"
+>>>>>>> upstream/main
       },
       "AnimationPoseType": "EAnimationPoseType::Default",
       "AnimationPosesSequence": {
@@ -44,7 +48,11 @@
       "AmmoType": "EHeldEquipmentAmmoType::CrossbowBolts",
       "ProjectileClass": {
         "ObjectName": "BlueprintGeneratedClass'BP_Arrow_Base_C'",
+<<<<<<< HEAD
         "ObjectPath": "/Game/Gameplay/Character/Player/Equipment/Ammo/BP_Arrow_Base"
+=======
+        "ObjectPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Ammo/BP_Arrow_Base.0"
+>>>>>>> upstream/main
       },
       "bRequiresReload": true,
       "ReloadDuration": 2.0,

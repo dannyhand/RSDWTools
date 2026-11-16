@@ -18,7 +18,11 @@
         {
           "ItemData": {
             "ObjectName": "HeldContainerEquipmentData'ITEM_Bucket_Compost_Big'",
+<<<<<<< HEAD
             "ObjectPath": "/Game/Gameplay/Character/Player/Equipment/Held/Bucket/ITEM_Bucket_Compost_Big"
+=======
+            "ObjectPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Bucket/ITEM_Bucket_Compost_Big.0"
+>>>>>>> upstream/main
           },
           "Count": 1
         }
@@ -28,7 +32,11 @@
       },
       "SkillUsedToCraft": {
         "ObjectName": "SkillData'SKILL_Farming'",
+<<<<<<< HEAD
         "ObjectPath": "/Game/Gameplay/Character/Player/Skills/SKILL_Farming"
+=======
+        "ObjectPath": "RSDragonwilds/Content/Gameplay/Character/Player/Skills/SKILL_Farming.1"
+>>>>>>> upstream/main
       },
       "SkillXPAwardedOnCraft": 50,
       "PersistenceID": "i6lrr0ZkMgE6O96eokUcuA",

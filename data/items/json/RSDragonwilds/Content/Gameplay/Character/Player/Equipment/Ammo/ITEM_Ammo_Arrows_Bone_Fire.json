@@ -23,7 +23,11 @@
       },
       "LaunchedArrowFXOverridesTable": {
         "ObjectName": "DataTable'VFXDA_OverrideData_ProjectileFlight_ArrowFire'",
+<<<<<<< HEAD
         "ObjectPath": "/Game/Art/VFX/DataAssets/Ranged/VFXDA_OverrideData_ProjectileFlight_ArrowFire"
+=======
+        "ObjectPath": "RSDragonwilds/Content/Art/VFX/DataAssets/Ranged/VFXDA_OverrideData_ProjectileFlight_ArrowFire.0"
+>>>>>>> upstream/main
       },
       "ProjectileData": {
         "LaunchSpeed": 5000.0,

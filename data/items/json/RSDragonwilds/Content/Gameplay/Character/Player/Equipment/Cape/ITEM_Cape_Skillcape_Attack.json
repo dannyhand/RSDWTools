@@ -81,8 +81,13 @@
           "Description": {
             "TableId": "/Game/Gameplay/Items/ST_ItemBuffs.ST_ItemBuffs",
             "Key": "AttackSkillcape",
+<<<<<<< HEAD
             "SourceString": null,
             "LocalizedString": ""
+=======
+            "SourceString": "Melee attacks have a small chance at costing no stamina when used.",
+            "LocalizedString": "Melee attacks have a small chance at costing no stamina when used."
+>>>>>>> upstream/main
           },
           "BuffIcon": {
             "AssetPathName": "",

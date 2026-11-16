@@ -18,7 +18,7 @@
             "ObjectName": "ItemData'ITEM_Resources_SilverBar'",
             "ObjectPath": "/Game/Gameplay/Items/Resources/Metal/ITEM_Resources_SilverBar"
           },
-          "Count": 2
+          "Count": 6
         },
         {
           "ItemData": {
@@ -40,6 +40,7 @@
             "ObjectPath": "/Game/Gameplay/Items/Resources/Animal/ITEM_Resources_SacredOil"
           },
           "Count": 2
+<<<<<<< HEAD
         },
         {
           "ItemData": {
@@ -47,6 +48,8 @@
             "ObjectPath": "/Game/Gameplay/Items/Resources/Magic/ITEM_Resources_VaultShard"
           },
           "Count": 4
+=======
+>>>>>>> upstream/main
         }
       ],
       "ItemsCreated": [

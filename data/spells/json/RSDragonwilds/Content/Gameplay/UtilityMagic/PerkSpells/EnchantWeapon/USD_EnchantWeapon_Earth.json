@@ -34,8 +34,13 @@
       "ItemsCostInfo": [
         {
           "ItemData": {
+<<<<<<< HEAD
             "ObjectName": "ItemData'ITEM_Rune_Earth'",
             "ObjectPath": "/Game/Gameplay/Items/Resources/Magic/ITEM_Rune_Earth"
+=======
+            "ObjectName": "MagicAmmoData'ITEM_Rune_Earth'",
+            "ObjectPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Magic/ITEM_Rune_Earth.0"
+>>>>>>> upstream/main
           },
           "Count": 15
         },
@@ -131,14 +136,24 @@
       "SpellDisplayName": {
         "TableId": "/Game/Gameplay/Character/Player/PerksV2/ST_Skills_Perks.ST_Skills_Perks",
         "Key": "Attack.EnchantWeaponEarth.Name",
+<<<<<<< HEAD
         "SourceString": null,
         "LocalizedString": ""
+=======
+        "SourceString": "Enchant Weapon: Earth",
+        "LocalizedString": "Enchant Weapon: Earth"
+>>>>>>> upstream/main
       },
       "SpecialRequirementsText": {
         "TableId": "/Game/Gameplay/Character/Player/PerksV2/ST_Skills_Perks.ST_Skills_Perks",
         "Key": "HeldItemRequired",
+<<<<<<< HEAD
         "SourceString": null,
         "LocalizedString": ""
+=======
+        "SourceString": "A held melee weapon ",
+        "LocalizedString": "A held melee weapon "
+>>>>>>> upstream/main
       },
       "NotifyFailedSpecialRequirements": [
         "UI.ConsumeItem.RequiresHeldEnchantable"

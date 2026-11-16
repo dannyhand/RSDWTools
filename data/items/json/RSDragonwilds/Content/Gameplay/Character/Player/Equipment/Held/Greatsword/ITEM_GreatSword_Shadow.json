@@ -17,6 +17,10 @@
         "ObjectName": "BlueprintGeneratedClass'PA_Spell_Greatsword_JumpAttack_C'",
         "ObjectPath": "/Game/Gameplay/Character/Player/Attacks/2H_Greatsword/PA_Spell_Greatsword_JumpAttack"
       },
+      "PrimaryJumpActionClass": {
+        "ObjectName": "BlueprintGeneratedClass'PA_Spell_Greatsword_JumpAttack_C'",
+        "ObjectPath": "RSDragonwilds/Content/Gameplay/Character/Player/Attacks/2H_Greatsword/PA_Spell_Greatsword_JumpAttack.0"
+      },
       "PrimarySprintActionClass": {
         "ObjectName": "BlueprintGeneratedClass'PA_Attack_2H_Greatsword_Sprint_C'",
         "ObjectPath": "/Game/Gameplay/Character/Player/Attacks/2H_Greatsword/PA_Attack_2H_Greatsword_Sprint"
@@ -68,7 +72,7 @@
       "GrantedEffects": [
         {
           "ObjectName": "BlueprintGeneratedClass'GE_Shadowsword_DamageModifierReceiverTypeSpectral_C'",
-          "ObjectPath": "/Game/Gameplay/GameplayEffects/Equipment/Shadowsword/GE_Shadowsword_DamageModifierReceiverTypeSpectral"
+          "ObjectPath": "RSDragonwilds/Content/Gameplay/GameplayEffects/Equipment/Shadowsword/GE_Shadowsword_DamageModifierReceiverTypeSpectral.0"
         }
       ],
       "SkillUsed": {

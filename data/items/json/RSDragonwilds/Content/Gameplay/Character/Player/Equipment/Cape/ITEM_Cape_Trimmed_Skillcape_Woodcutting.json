@@ -81,8 +81,13 @@
           "Description": {
             "TableId": "/Game/Gameplay/Items/ST_ItemBuffs.ST_ItemBuffs",
             "Key": "WoodcuttingSkillcape",
+<<<<<<< HEAD
             "SourceString": null,
             "LocalizedString": ""
+=======
+            "SourceString": "You have a small chance to instantly finish chopping a tree.",
+            "LocalizedString": "You have a small chance to instantly finish chopping a tree."
+>>>>>>> upstream/main
           },
           "BuffIcon": {
             "AssetPathName": "",

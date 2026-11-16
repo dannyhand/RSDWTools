@@ -9,7 +9,11 @@
         {
           "ItemData": {
             "ObjectName": "ItemData'ITEM_Resources_MithrilBar'",
+<<<<<<< HEAD
             "ObjectPath": "/Game/Gameplay/Items/Resources/Metal/ITEM_Resources_MithrilBar"
+=======
+            "ObjectPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Metal/ITEM_Resources_MithrilBar.0"
+>>>>>>> upstream/main
           },
           "Count": 4
         },
@@ -39,7 +43,11 @@
         {
           "ItemData": {
             "ObjectName": "WearableEquipmentData'ITEM_Armour_T3_Head_BlackMed'",
+<<<<<<< HEAD
             "ObjectPath": "/Game/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T3_Head_BlackMed"
+=======
+            "ObjectPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T3_Head_BlackMed.0"
+>>>>>>> upstream/main
           },
           "Count": 1
         }
@@ -50,12 +58,20 @@
       "bIgnoreAutomaticUnlocks": true,
       "SkillUsedToCraft": {
         "ObjectName": "SkillData'SKILL_Artisan'",
+<<<<<<< HEAD
         "ObjectPath": "/Game/Gameplay/Character/Player/Skills/SKILL_Artisan"
+=======
+        "ObjectPath": "RSDragonwilds/Content/Gameplay/Character/Player/Skills/SKILL_Artisan.1"
+>>>>>>> upstream/main
       },
       "OnCraftXpEvent": {
         "DataTable": {
           "ObjectName": "DataTable'DT_XPEvents_Crafting'",
+<<<<<<< HEAD
           "ObjectPath": "/Game/Gameplay/Progress/XPEventTables/DT_XPEvents_Crafting"
+=======
+          "ObjectPath": "RSDragonwilds/Content/Gameplay/Progress/XPEventTables/DT_XPEvents_Crafting.0"
+>>>>>>> upstream/main
         },
         "RowName": "Craft_Smithing_Forge_Tier4"
       },

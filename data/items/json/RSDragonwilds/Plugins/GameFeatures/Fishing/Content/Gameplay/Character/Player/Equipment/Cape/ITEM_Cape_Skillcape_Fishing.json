@@ -24,7 +24,11 @@
       "GrantedEffects": [
         {
           "ObjectName": "BlueprintGeneratedClass'GE_Skillcape_Fishing_C'",
+<<<<<<< HEAD
           "ObjectPath": "/Game/Gameplay/GameplayEffects/Equipment/SkillCapes/GE_Skillcape_Fishing"
+=======
+          "ObjectPath": "RSDragonwilds/Content/Gameplay/GameplayEffects/Equipment/SkillCapes/GE_Skillcape_Fishing.0"
+>>>>>>> upstream/main
         }
       ],
       "SkillPerkRequiredToEquip": {
@@ -75,14 +79,24 @@
           "Title": {
             "TableId": "/Game/Gameplay/Items/ST_ItemInfo.ST_ItemInfo",
             "Key": "SpecialEffect",
+<<<<<<< HEAD
             "SourceString": null,
             "LocalizedString": ""
+=======
+            "SourceString": "Special Effect",
+            "LocalizedString": "Special Effect"
+>>>>>>> upstream/main
           },
           "Description": {
             "TableId": "/Game/Gameplay/Items/ST_ItemBuffs.ST_ItemBuffs",
             "Key": "FishingSkillcape",
+<<<<<<< HEAD
             "SourceString": null,
             "LocalizedString": ""
+=======
+            "SourceString": "You have a small chance to instantly catch a fish.",
+            "LocalizedString": "You have a small chance to instantly catch a fish."
+>>>>>>> upstream/main
           },
           "BuffIcon": {
             "AssetPathName": "",

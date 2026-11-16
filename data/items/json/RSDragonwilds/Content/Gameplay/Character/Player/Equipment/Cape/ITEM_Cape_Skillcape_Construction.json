@@ -81,8 +81,13 @@
           "Description": {
             "TableId": "/Game/Gameplay/Items/ST_ItemBuffs.ST_ItemBuffs",
             "Key": "ConstructionSkillcape",
+<<<<<<< HEAD
             "SourceString": null,
             "LocalizedString": ""
+=======
+            "SourceString": "You can repair buildings for free.",
+            "LocalizedString": "You can repair buildings for free."
+>>>>>>> upstream/main
           },
           "BuffIcon": {
             "AssetPathName": "",

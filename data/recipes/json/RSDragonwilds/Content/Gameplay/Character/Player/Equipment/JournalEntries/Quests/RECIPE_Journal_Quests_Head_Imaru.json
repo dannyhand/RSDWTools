@@ -16,12 +16,20 @@
       },
       "SkillUsedToCraft": {
         "ObjectName": "SkillData'SKILL_Artisan'",
+<<<<<<< HEAD
         "ObjectPath": "/Game/Gameplay/Character/Player/Skills/SKILL_Artisan"
+=======
+        "ObjectPath": "RSDragonwilds/Content/Gameplay/Character/Player/Skills/SKILL_Artisan.1"
+>>>>>>> upstream/main
       },
       "OnCraftXpEvent": {
         "DataTable": {
           "ObjectName": "DataTable'DT_XPEvents_Crafting'",
+<<<<<<< HEAD
           "ObjectPath": "/Game/Gameplay/Progress/XPEventTables/DT_XPEvents_Crafting"
+=======
+          "ObjectPath": "RSDragonwilds/Content/Gameplay/Progress/XPEventTables/DT_XPEvents_Crafting.0"
+>>>>>>> upstream/main
         },
         "RowName": "Craft_Smithing_Forge_Tier3"
       },

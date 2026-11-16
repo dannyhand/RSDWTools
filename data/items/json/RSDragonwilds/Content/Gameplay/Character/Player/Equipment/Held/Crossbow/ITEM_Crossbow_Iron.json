@@ -17,13 +17,21 @@
         "ObjectName": "BlueprintGeneratedClass'PA_Spell_Crossbow_JumpAttack_C'",
         "ObjectPath": "/Game/Gameplay/Character/Player/Attacks/Crossbow/PA_Spell_Crossbow_JumpAttack"
       },
+      "PrimaryJumpActionClass": {
+        "ObjectName": "BlueprintGeneratedClass'PA_Spell_Crossbow_JumpAttack_C'",
+        "ObjectPath": "RSDragonwilds/Content/Gameplay/Character/Player/Attacks/Crossbow/PA_Spell_Crossbow_JumpAttack.0"
+      },
       "SecondaryActionClass": {
         "ObjectName": "BlueprintGeneratedClass'PA_Block_Crossbow_C'",
         "ObjectPath": "/Game/Gameplay/Character/Player/Abilities/Block/PA_Block_Crossbow"
       },
       "SpecialActionClass": {
         "ObjectName": "BlueprintGeneratedClass'PA_RangedAttack_Crossbow_PunishingShot_C'",
+<<<<<<< HEAD
         "ObjectPath": "/Game/Gameplay/Character/Player/Attacks/Crossbow/PA_RangedAttack_Crossbow_PunishingShot"
+=======
+        "ObjectPath": "RSDragonwilds/Content/Gameplay/Character/Player/Attacks/Crossbow/PA_RangedAttack_Crossbow_PunishingShot.0"
+>>>>>>> upstream/main
       },
       "AnimationPoseType": "EAnimationPoseType::Default",
       "AnimationPosesSequence": {
@@ -52,7 +60,11 @@
       "AmmoType": "EHeldEquipmentAmmoType::CrossbowBolts",
       "ProjectileClass": {
         "ObjectName": "BlueprintGeneratedClass'BP_Arrow_Base_C'",
+<<<<<<< HEAD
         "ObjectPath": "/Game/Gameplay/Character/Player/Equipment/Ammo/BP_Arrow_Base"
+=======
+        "ObjectPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Ammo/BP_Arrow_Base.0"
+>>>>>>> upstream/main
       },
       "ExcludedAmmoCategory": {
         "TagName": "Item.Equipment.Ammo.Bolt.Bone"

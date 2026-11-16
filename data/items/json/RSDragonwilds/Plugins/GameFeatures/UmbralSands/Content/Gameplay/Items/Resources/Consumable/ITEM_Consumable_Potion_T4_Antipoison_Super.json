@@ -2,7 +2,105 @@
   {
     "Type": "BP_Consumables_Potion_C",
     "Name": "ITEM_Consumable_Potion_T4_Antipoison_Super",
+<<<<<<< HEAD
     "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted"
+=======
+    "Class": "BlueprintGeneratedClass'RSDragonwilds/Content/Gameplay/Items/Consumables/BP_Consumables_Potion.BP_Consumables_Potion_C'",
+    "Template": {
+      "ObjectName": "BP_Consumables_Potion_C'Default__BP_Consumables_Potion_C'",
+      "ObjectPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/BP_Consumables_Potion.1"
+    },
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Properties": {
+      "ConsumeXpEvent": {
+        "DataTable": {
+          "ObjectName": "DataTable'DT_XPEvents_ConsumeItems'",
+          "ObjectPath": "RSDragonwilds/Content/Gameplay/Progress/XPEventTables/DT_XPEvents_ConsumeItems.0"
+        },
+        "RowName": "Consume_Weak_Potion"
+      },
+      "Duration": 600.0,
+      "GameplayEffectsToApply": [
+        {
+          "Effect": {
+            "ObjectName": "GE_ClearBuildup_Poison_C'ITEM_Consumable_Potion_T4_Antipoison_Super:GE_ClearBuildup_Poison_C_0'",
+            "ObjectPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Potion_T4_Antipoison_Super.1"
+          }
+        },
+        {
+          "Effect": {
+            "ObjectName": "GE_ResistBuildup_Poison_C'ITEM_Consumable_Potion_T4_Antipoison_Super:GE_ResistBuildup_Poison_C_0'",
+            "ObjectPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Potion_T4_Antipoison_Super.3"
+          }
+        }
+      ],
+      "ConsumeCooldownEffectToApply": {
+        "Effect": {
+          "ObjectName": "GE_Cooldown_Drink_C'ITEM_Consumable_Potion_T4_Antipoison_Super:GE_Cooldown_Drink_C_1'",
+          "ObjectPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Potion_T4_Antipoison_Super.2"
+        }
+      },
+      "Name": {
+        "TableId": "/Game/Gameplay/Items/ST_ItemNames.ST_ItemNames",
+        "Key": "SuperAntiPoisonPotion",
+        "SourceString": "Super Antipoison Potion",
+        "LocalizedString": "Super Antipoison Potion"
+      },
+      "FlavourText": {
+        "TableId": "/Game/Gameplay/Items/ST_ItemDescriptions.ST_ItemDescriptions",
+        "Key": "StandardAntipoisonPotion",
+        "SourceString": "Removes poison and grants resistance to it. ",
+        "LocalizedString": "Removes poison and grants resistance to it. "
+      },
+      "Icon": {
+        "AssetPathName": "/Game/Art/UI/Icons/Icons_0_12_UmS/Icons/T_Icon_Super_Potion__T4_Green.T_Icon_Super_Potion__T4_Green",
+        "SubPathString": ""
+      },
+      "CategoryClassIcon": {
+        "AssetPathName": "/Game/Art/UI/Icons/Types/T_Instant_Poison.T_Instant_Poison",
+        "SubPathString": ""
+      },
+      "StaticMesh": {
+        "AssetPathName": "/Game/Art/Item/Resources/Wrapped_Liquid_Container/SM_Wrapped_Liquid_Container_01.SM_Wrapped_Liquid_Container_01",
+        "SubPathString": ""
+      },
+      "MaxStackSize": 99,
+      "Weight": 1.0,
+      "Category": {
+        "TagName": "ItemFilter.Type.Consumable.Potion"
+      },
+      "AudioSwitchTag": {
+        "TagName": "Audio.Glass.Bottle"
+      },
+      "CompostAmount": 10,
+      "BuffDatas": [
+        {
+          "Title": {
+            "Namespace": "",
+            "Key": "5BC42B0D49F20007B58F3FA3C8823D26",
+            "SourceString": "Antipoison II",
+            "LocalizedString": "Antipoison II"
+          },
+          "Description": {
+            "TableId": "/Game/Gameplay/Items/ST_ItemBuffs.ST_ItemBuffs",
+            "Key": "AntiPoison.Description",
+            "SourceString": "NEGATES and grants RESISTANCE to POISON effects ",
+            "LocalizedString": "NEGATES and grants RESISTANCE to POISON effects "
+          },
+          "BuffIcon": {
+            "AssetPathName": "/Game/Art/UI/HUD/Survival_Core/Buffs/Buffs_Icons/T_Icon_Buff_FocusedAntiPoison.T_Icon_Buff_FocusedAntiPoison",
+            "SubPathString": ""
+          }
+        }
+      ],
+      "PersistenceID": "d0ZVvUZxpn4Miou-QrRG7w",
+      "InternalName": "potion_t4_antipoison",
+      "NativeClass": {
+        "ObjectName": "BlueprintGeneratedClass'BP_Consumables_Potion_C'",
+        "ObjectPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/BP_Consumables_Potion.0"
+      }
+    }
+>>>>>>> upstream/main
   },
   {
     "Type": "GE_ClearBuildup_Poison_C",

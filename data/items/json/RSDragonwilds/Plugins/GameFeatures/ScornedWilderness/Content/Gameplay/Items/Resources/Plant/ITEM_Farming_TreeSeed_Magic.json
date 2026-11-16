@@ -7,7 +7,11 @@
     "Properties": {
       "TreeGrowStagesData": {
         "ObjectName": "TreeGrowStagesDataAsset'DA_Farming_GrowingTree_Magic_GrowStages'",
+<<<<<<< HEAD
         "ObjectPath": "/Game/Gameplay/Farming/Trees/Magic/DA_Farming_GrowingTree_Magic_GrowStages"
+=======
+        "ObjectPath": "RSDragonwilds/Content/Gameplay/Farming/Trees/Magic/DA_Farming_GrowingTree_Magic_GrowStages.0"
+>>>>>>> upstream/main
       },
       "ValidPlantingRegions": [
         "Location.Region.Brynmoor",

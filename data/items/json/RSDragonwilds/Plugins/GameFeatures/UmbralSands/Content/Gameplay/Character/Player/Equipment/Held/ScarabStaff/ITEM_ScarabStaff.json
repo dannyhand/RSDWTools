@@ -15,7 +15,11 @@
       },
       "PrimaryJumpActionClass": {
         "ObjectName": "BlueprintGeneratedClass'PA_Spell_Staff_JumpAttack_C'",
+<<<<<<< HEAD
         "ObjectPath": "/Game/Gameplay/Character/Player/Attacks/Magic/PA_Spell_Staff_JumpAttack"
+=======
+        "ObjectPath": "RSDragonwilds/Content/Gameplay/Character/Player/Attacks/Magic/PA_Spell_Staff_JumpAttack.0"
+>>>>>>> upstream/main
       },
       "SecondaryActionClass": {
         "ObjectName": "Class'PlayerAction'",

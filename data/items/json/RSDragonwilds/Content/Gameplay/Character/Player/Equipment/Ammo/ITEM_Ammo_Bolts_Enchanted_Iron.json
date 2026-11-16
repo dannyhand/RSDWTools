@@ -19,7 +19,11 @@
       },
       "LaunchedArrowFXOverridesTable": {
         "ObjectName": "DataTable'VFXDA_OverrideData_ProjectileFlight_BoltDefault'",
+<<<<<<< HEAD
         "ObjectPath": "/Game/Art/VFX/DataAssets/Ranged/VFXDA_OverrideData_ProjectileFlight_BoltDefault"
+=======
+        "ObjectPath": "RSDragonwilds/Content/Art/VFX/DataAssets/Ranged/VFXDA_OverrideData_ProjectileFlight_BoltDefault.0"
+>>>>>>> upstream/main
       },
       "ProjectileData": {
         "LaunchSpeed": 5000.0,
