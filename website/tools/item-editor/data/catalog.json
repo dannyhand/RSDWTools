@@ -6446,7 +6446,7 @@
           "description": "NO EFFECT",
           "baseDurability": 1000,
           "weight": 2.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -6459,7 +6459,7 @@
           "description": "NO EFFECT",
           "baseDurability": 1000,
           "weight": 2.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -6472,7 +6472,7 @@
           "description": "NO EFFECT",
           "baseDurability": 1000,
           "weight": 2.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -6485,7 +6485,7 @@
           "description": "NO EFFECT",
           "baseDurability": 1000,
           "weight": 2.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -6498,7 +6498,7 @@
           "description": "NO EFFECT",
           "baseDurability": 1000,
           "weight": 2.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -6511,7 +6511,7 @@
           "description": "NO EFFECT",
           "baseDurability": 1000,
           "weight": 2.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -6524,7 +6524,7 @@
           "description": "NO EFFECT",
           "baseDurability": 1000,
           "weight": 2.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -6537,7 +6537,7 @@
           "description": "A piee of enchanted jewellery that increases carrying capacity.",
           "baseDurability": 1000,
           "weight": 2.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -6550,7 +6550,7 @@
           "description": "NO EFFECT",
           "baseDurability": 1000,
           "weight": 2.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -6563,7 +6563,7 @@
           "description": "NO EFFECT",
           "baseDurability": 1000,
           "weight": 2.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7340,7 +7340,7 @@
           "description": "A ring that once belonged to a powerful necromancer. ",
           "baseDurability": 100,
           "weight": 1.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7353,7 +7353,7 @@
           "description": "A magical amulet worn by keen-eyed Rangers. ",
           "baseDurability": 2500,
           "weight": 2.0,
-          "equipment": "Amulet",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7366,7 +7366,7 @@
           "description": "A mystical amulet that strengthens your defences.",
           "baseDurability": 2500,
           "weight": 2.0,
-          "equipment": "Amulet",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7379,7 +7379,7 @@
           "description": "A powerful magical amulet, popular with wizards everywhere.",
           "baseDurability": 2500,
           "weight": 2.0,
-          "equipment": "Amulet",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7392,7 +7392,7 @@
           "description": "An enchanted amulet favoured by warriors.",
           "baseDurability": 2500,
           "weight": 2.0,
-          "equipment": "Amulet",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7405,7 +7405,7 @@
           "description": "This item loses durability over time when equipped.",
           "baseDurability": 32000,
           "weight": 2.0,
-          "equipment": "Amulet",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7418,7 +7418,7 @@
           "description": "This item loses durability over time when equipped.",
           "baseDurability": 32000,
           "weight": 2.0,
-          "equipment": "Amulet",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7431,7 +7431,7 @@
           "description": "This item loses durability over time when equipped.",
           "baseDurability": 32000,
           "weight": 2.0,
-          "equipment": "Amulet",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7444,7 +7444,7 @@
           "description": "This item loses durability over time when equipped.",
           "baseDurability": 32000,
           "weight": 1.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7457,7 +7457,7 @@
           "description": "This item loses durability over time when equipped.",
           "baseDurability": 32000,
           "weight": 1.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7470,7 +7470,7 @@
           "description": "This item loses durability over time when equipped.",
           "baseDurability": 32000,
           "weight": 1.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7483,7 +7483,7 @@
           "description": "This item loses durability over time when equipped.",
           "baseDurability": 32000,
           "weight": 1.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7496,7 +7496,7 @@
           "description": "This item loses durability over time when equipped.",
           "baseDurability": 32000,
           "weight": 1.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7509,7 +7509,7 @@
           "description": "This item loses durability over time when equipped.",
           "baseDurability": 32000,
           "weight": 1.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7522,7 +7522,7 @@
           "description": "This item loses durability over time when equipped.",
           "baseDurability": 32000,
           "weight": 1.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7535,7 +7535,7 @@
           "description": "This item loses durability over time when equipped.",
           "baseDurability": 32000,
           "weight": 1.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7548,7 +7548,7 @@
           "description": "This item loses durability over time when equipped.",
           "baseDurability": 32000,
           "weight": 1.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7561,7 +7561,7 @@
           "description": "A magical ring with lifesaving properties.",
           "baseDurability": 1,
           "weight": 1.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7574,7 +7574,7 @@
           "description": "A magical ring that makes you sneakier. ",
           "baseDurability": 18000,
           "weight": 1.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7587,7 +7587,7 @@
           "description": "A magical ring to punish enemy aggression. ",
           "baseDurability": 2500,
           "weight": 1.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7600,7 +7600,7 @@
           "description": "A powerful amulet made from a crystal that has absorbed the magical blessings of the River Salve.",
           "baseDurability": 2500,
           "weight": 2.0,
-          "equipment": "Amulet",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7613,7 +7613,7 @@
           "description": "A necklace that proudlty displays the Zamorak symbol. Don't wear it to church.",
           "baseDurability": 2500,
           "weight": 2.0,
-          "equipment": "Ring",
+          "equipment": "Jewellery",
           "vitalShield": 0
         },
         {
@@ -7626,11 +7626,7 @@
           "description": "Worn by seasoned warriors, this amulet bolsters strength, precision, and resilience in battle.",
           "baseDurability": 2500,
           "weight": 2.0,
-<<<<<<< HEAD
-          "equipment": "Amulet"
-=======
           "vitalShield": 0
->>>>>>> upstream/main
         },
         {
           "name": "Skills Necklace",
